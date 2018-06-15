@@ -1,0 +1,1 @@
+# Binding.scala-example
