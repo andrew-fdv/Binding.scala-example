@@ -1,0 +1,11 @@
+﻿# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# sbt
+project/project
+target
+
+# IntelliJ
+.idea
+
+# dependencies
+node_modules
